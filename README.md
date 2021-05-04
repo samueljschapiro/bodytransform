@@ -1,2 +1,19 @@
 # bodytransform
-Body transformation webpage project.
+BODY TRANSFORMATION WEBPAGE PROJECT
+
+## VERSION / SOURCE CONTROL SYSTEM: GITHUB
+
+## SOFTWARE NEEDED
+> 3D DESIGN SOFTWARE
+> 
+
+## Languages needed:
+* CSS
+* HTML
+* JAVASCRIPT
+
+
+## Divsion of duties:
+* SAM
+* BENJI
+* JANIN
